@@ -22,7 +22,7 @@ The interactive dashboard enables users to monitor key performance indicators (K
 
 
 Screenshot:
-![Dashboard]()
+![Dashboard](https://github.com/parveenshahina564-maker/Road-Accident-Analysis/blob/20c70e838ed65875ef5a7478290175976926f966/RA%20Tableau.png)
 
 
 Tech Stack:
